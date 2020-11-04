@@ -13,5 +13,7 @@
 - End: 19:15
 - **Time: 2.75hrs**
 - Start: 22:30
-- End:
-- **Time: hrs**
+- End: 00:00
+- **Time: 2.50hrs**
+
+### Total time = 7 hrs 30 min
